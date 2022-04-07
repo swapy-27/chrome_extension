@@ -1,0 +1,14 @@
+#jokes_display{
+    min-height:100px;
+    min-width:300px;
+    height: max-content;
+    
+    font-family: sans-serif;
+}
+#joke_punchline{
+    font-size: large;
+}
+#joke_setup{
+    font-size: x-large;
+
+}

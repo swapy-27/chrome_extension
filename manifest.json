@@ -1,0 +1,12 @@
+{
+    "name":"Jokes ka Pitara",
+    "description":"Instant Laughter at a click away....",
+    "version":"0.0.1",
+    "manifest_version": 3,
+
+
+    "action":{
+        "default_popup":"index.html"
+    }
+}
+
